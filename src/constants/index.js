@@ -62,7 +62,7 @@ export const myProjects = [
     desc: 'A Gemini Clone project replicates the functionality of Googles Gemini AI, focusing on AI-powered chat, text generation, and question-answering. ',
     subdesc:
       'It typically involves React  for the frontend and integrates Googles Gemini API or an alternative LLM for AI responses.',
-    href: 'https://www.youtube.com/watch?v=zfAb95tJvZQ',
+    href: 'https://nazib999.github.io/gemini/',
     texture: '/portfolio/textures/project/project1.mp4',
     logo: '/portfolio/assets/project-logo1.png',
     logoStyle: {
@@ -80,18 +80,16 @@ export const myProjects = [
       {
         id: 2,
         name: 'TailwindCSS',
-        path: 'portfolio/assets/tailwindcss.png',
+        path: '/portfolio/assets/tailwindcss.png',
       },
-     
-      
     ],
   },
+
   {
-    title: 'LiveDoc - Real-Time Google Docs Clone',
-    desc: 'LiveDoc is a powerful collaborative app that elevates the capabilities of real-time document editing. As an enhanced version of Google Docs, It supports millions of collaborators simultaneously, ensuring that every change is captured instantly and accurately.',
-    subdesc:
-      'With LiveDoc, users can experience the future of collaboration, where multiple contributors work together in real time without any lag, by using Next.js and Liveblocks newest features.',
-    href: 'https://www.youtube.com/watch?v=y5vE8y_f_OM',
+    title: 'Ecommerce shop - Online shop',
+    desc: 'A modern and responsive eCommerce shop built with React js and Tailwind CSS. ',
+    subdesc: 'Eshop offering a seamless shopping experience with secure checkout, product filtering.',
+    href: 'https://nazib999.github.io/random-shop/',
     texture: '/portfolio/textures/project/project2.mp4',
     logo: '/portfolio/assets/project-logo2.png',
     logoStyle: {
@@ -111,24 +109,13 @@ export const myProjects = [
         name: 'TailwindCSS',
         path: '/portfolio/assets/tailwindcss.png',
       },
-      {
-        id: 3,
-        name: 'TypeScript',
-        path: '/portfolio/assets/typescript.png',
-      },
-      {
-        id: 4,
-        name: 'Framer Motion',
-        path: '/portfolio/assets/framer.png',
-      },
     ],
   },
   {
-    title: 'CarePulse - Health Management System',
-    desc: 'An innovative healthcare platform designed to streamline essential medical processes. It simplifies patient registration, appointment scheduling, and medical record management, providing a seamless experience for both healthcare providers and patients.',
-    subdesc:
-      'With a focus on efficiency, CarePulse integrantes complex forms and SMS notifications, by using Next.js, Appwrite, Twillio and Sentry that enhance operational workflows.',
-    href: 'https://www.youtube.com/watch?v=lEflo_sc82g',
+    title: 'Xora - Saas landing page',
+    desc: 'A sleek and high-converting SaaS landing page built with React js ,Tailwind CSS and Gsap',
+    subdesc: 'Featuring a clean UI, responsive design, and smooth animations to showcase your product effectively.',
+    href: 'https://nazib999.github.io/Xora/',
     texture: '/portfolio/textures/project/project3.mp4',
     logo: '/portfolio/assets/project-logo3.png',
     logoStyle: {
@@ -152,22 +139,16 @@ export const myProjects = [
       },
       {
         id: 3,
-        name: 'TypeScript',
-        path: '/portfolio/assets/typescript.png',
-      },
-      {
-        id: 4,
-        name: 'Framer Motion',
-        path: '/portfolio/assets/framer.png',
+        name: 'Gsap',
+        path: '/portfolio/assets/gsa.png',
       },
     ],
   },
   {
-    title: 'Horizon - Online Banking Platform',
-    desc: 'Horizon is a comprehensive online banking platform that offers users a centralized finance management dashboard. It allows users to connect multiple bank accounts, monitor real-time transactions, and seamlessly transfer money to other users.',
-    subdesc:
-      'Built with Next.js 14 Appwrite, Dwolla and Plaid, Horizon ensures a smooth and secure banking experience, tailored to meet the needs of modern consumers.',
-    href: 'https://www.youtube.com/watch?v=PuOVqP_cjkE',
+    title: 'InsiderJobs – Modern Job Portal',
+    desc: 'A feature-rich job portal built with React js and Tailwind CSS',
+    subdesc: ' Offering job listings, resume uploads, clerk authentication and employer dashboards with an intuitive and responsive design.',
+    href: 'https://nazib999.github.io/job/',
     texture: '/portfolio/textures/project/project4.mp4',
     logo: '/portfolio/assets/project-logo4.png',
     logoStyle: {
@@ -187,24 +168,13 @@ export const myProjects = [
         name: 'TailwindCSS',
         path: '/portfolio/assets/tailwindcss.png',
       },
-      {
-        id: 3,
-        name: 'TypeScript',
-        path: '/portfolio/assets/typescript.png',
-      },
-      {
-        id: 4,
-        name: 'Framer Motion',
-        path: '/portfolio/assets/framer.png',
-      },
     ],
   },
   {
-    title: 'Imaginify - AI Photo Manipulation App',
-    desc: 'Imaginify is a groundbreaking Software-as-a-Service application that empowers users to create stunning photo manipulations using AI technology. With features like AI-driven image editing, a payments system, and a credits-based model.',
-    subdesc:
-      'Built with Next.js 14, Cloudinary AI, Clerk, and Stripe, Imaginify combines cutting-edge technology with a user-centric approach. It can be turned into a side income or even a full-fledged business.',
-    href: 'https://www.youtube.com/watch?v=Ahwoks_dawU',
+    title: 'Harley – Personal Portfolio Website',
+    desc: 'A stylish and responsive portfolio website built with Html and Bootstrap',
+    subdesc: 'Showcasing projects, skills, and experience with a modern UI and smooth animations.',
+    href: 'https://nazib999.github.io/harley/',
     texture: '/portfolio/textures/project/project5.mp4',
     logo: '/portfolio/assets/project-logo5.png',
     logoStyle: {
@@ -213,28 +183,7 @@ export const myProjects = [
       boxShadow: '0px 0px 60px 0px #635BFF4D',
     },
     spotlight: '/portfolio/assets/spotlight5.png',
-    tags: [
-      {
-        id: 1,
-        name: 'React.js',
-        path: '/portfolio/assets/react.svg',
-      },
-      {
-        id: 2,
-        name: 'TailwindCSS',
-        path: '/portfolio/assets/tailwindcss.png',
-      },
-      {
-        id: 3,
-        name: 'TypeScript',
-        path: '/portfolio/assets/typescript.png',
-      },
-      {
-        id: 4,
-        name: 'Framer Motion',
-        path: '/portfolio/assets/framer.png',
-      },
-    ],
+    tags: [],
   },
 ];
 
@@ -255,7 +204,8 @@ export const workExperiences = [
     name: 'Framer',
     pos: 'Lead Web Developer',
     duration: '2022 - Present',
-    title: "Framer serves as my go-to tool for creating interactive prototypes. I use it to bring designs to  life, allowing stakeholders to experience the user flow and interactions before development.",
+    title:
+      'Framer serves as my go-to tool for creating interactive prototypes. I use it to bring designs to  life, allowing stakeholders to experience the user flow and interactions before development.',
     icon: '/portfolio/assets/framer.svg',
     animation: 'victory',
   },
@@ -264,7 +214,8 @@ export const workExperiences = [
     name: 'Figma',
     pos: 'Web Developer',
     duration: '2020 - 2022',
-    title: "Figma is my collaborative design platform of choice. I utilize it to work seamlessly with team members and clients, facilitating real-time feedback and design iterations. Its cloud-based.",
+    title:
+      'Figma is my collaborative design platform of choice. I utilize it to work seamlessly with team members and clients, facilitating real-time feedback and design iterations. Its cloud-based.',
     icon: '/portfolio/assets/figma.svg',
     animation: 'clapping',
   },
@@ -273,7 +224,8 @@ export const workExperiences = [
     name: 'Notion',
     pos: 'Junior Web Developer',
     duration: '2019 - 2020',
-    title: "Notion helps me keep my projects organized. I use it for project management, task tracking, and as a central hub for documentation, ensuring that everything from design notes to.",
+    title:
+      'Notion helps me keep my projects organized. I use it for project management, task tracking, and as a central hub for documentation, ensuring that everything from design notes to.',
     icon: '/portfolio/assets/notion.svg',
     animation: 'salute',
   },
